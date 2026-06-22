@@ -4,7 +4,7 @@
   import path from 'path';
 
   export default defineConfig({
-    base: process.env.GITHUB_PAGES === 'true' ? '/niceia-mentoria-em-grupo-v2/' : '/',
+    base: '/',
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
