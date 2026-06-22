@@ -621,14 +621,14 @@ a {
   display: grid;
   grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
   gap: 46px;
+  align-items: start;
   margin-top: 46px;
 }
 
 .faq-note {
   display: flex;
-  min-height: 100%;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: flex-start;
   gap: 34px;
   padding: 34px;
   border-radius: 8px;
