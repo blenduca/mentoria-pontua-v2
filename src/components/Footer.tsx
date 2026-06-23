@@ -23,7 +23,7 @@ export function Footer({ onOpenModal }: FooterProps) {
           </div>
 
           <button className="cta-primary" onClick={onOpenModal}>
-            Sessão estratégica gratuita
+            AGENDAR SESSÃO ESTRATÉGICA
             <ArrowRight size={18} />
           </button>
         </div>

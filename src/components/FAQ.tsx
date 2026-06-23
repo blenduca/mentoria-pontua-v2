@@ -43,7 +43,7 @@ export function FAQ({ onOpenModal }: FAQProps) {
               o seu próximo passo de crescimento.
             </p>
             <button className="cta-primary" onClick={onOpenModal}>
-              Sessão estratégica gratuita
+              AGENDAR SESSÃO ESTRATÉGICA
               <ArrowRight size={18} />
             </button>
           </div>

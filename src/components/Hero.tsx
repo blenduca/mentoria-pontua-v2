@@ -18,7 +18,7 @@ export function Hero({ onOpenModal }: HeroProps) {
 
         <h1>
           Seu negócio não cresce com mais esforço.
-          <span> Ele cresce com decisões melhores.</span>
+          <span> Ele cresce com decisões mais assertivas.</span>
         </h1>
 
         <p className="hero-subtitle">
@@ -33,7 +33,7 @@ export function Hero({ onOpenModal }: HeroProps) {
 
         <div className="hero-actions">
           <button className="cta-primary" onClick={onOpenModal}>
-            Agendar reunião estratégica
+            AGENDAR SESSÃO ESTRATÉGICA
             <ArrowRight size={18} />
           </button>
           <a className="cta-secondary" href="#solucoes">
